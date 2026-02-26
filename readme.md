@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on data analysis and predictive modeling using the diamonds dataset. The primary objective is to explore, visualize, and build machine learning models to predict diamond prices based on various features. All analysis and modeling are performed in a Jupyter notebook for reproducibility and clarity.
 
-## Project Structure
+## Project structure
 - `diamonds.csv`: The dataset containing diamond attributes and prices.
 - `notebooks_data analysis.ipynb`: Jupyter notebook with data exploration, visualization, preprocessing, and model training steps.
 - `readme.md`: Project documentation and instructions.
@@ -16,7 +16,7 @@ This project focuses on data analysis and predictive modeling using the diamonds
 - Model training and evaluation (regression models)
 - Performance metrics and comparison
 
-## Getting Started
+## Getting started
 1. **Clone the repository** or download the project files.
 2. **Install Python and Jupyter Notebook** (if not already installed).
 3. **Install required packages**:
@@ -56,6 +56,7 @@ Ashwini Vishal Hebbali
 
 ----
 For questions or suggestions, please contact [your.email@example.com](mailto:your.email@example.com).
+
 
 
 
