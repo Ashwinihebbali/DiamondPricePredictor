@@ -1,4 +1,4 @@
-# Model Training on Data Analysis
+# Model Training on Data AnalysiS
 
 ## Overview
 This project focuses on data analysis and predictive modeling using the diamonds dataset. The primary objective is to explore, visualize, and build machine learning models to predict diamond prices based on various features. All analysis and modeling are performed in a Jupyter notebook for reproducibility and clarity. 
